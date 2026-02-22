@@ -1,4 +1,4 @@
-## ML Agent 
+## Lovable for ML: ML Agent 
 By Mund Vetter and Cas Steigstra
 
 ### Demo
