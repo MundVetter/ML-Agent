@@ -1,6 +1,7 @@
-## AI Builder
+## ML Agent 
+By Mund Vetter and Cas Steigstra
 
-An end-to-end workflow that turns natural language prompts and Hugging Face dataset summaries into runnable machine learning training code, executes it in a secure GPU sandbox on Modal, tracks artifacts/metrics, and serves simple inference.
+An agent that turns natural language prompts and Hugging Face dataset summaries into runnable machine learning training code, executes it in a secure GPU sandbox on Modal, tracks artifacts/metrics, and serves simple inference.
 
 ### What it does
 - **Dataset summarization**: Builds a compact JSON summary of any Hugging Face dataset (features, splits, example row, basic card data).
