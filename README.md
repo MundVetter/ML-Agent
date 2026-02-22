@@ -26,8 +26,6 @@ Lovable for ML: An agent that turns natural language prompts and Hugging Face da
   - `st_app.py`: Streamlit dashboard for starting jobs, monitoring, and inference
   - `dataset_sumarizer.py`: Utilities/CLI to summarize Hugging Face datasets
 
-Note: You may also have a separate frontend in `ai-builder/` (Node/Next.js). This README focuses on the Python/Modal workflow.
-
 ### Prerequisites
 - Python 3.10+
 - A Modal account and CLI (`pip install modal`) and `modal token set ...` authentication
